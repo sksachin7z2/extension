@@ -1,0 +1,25 @@
+
+.quotebody{
+    background-image: url('./background1.jpeg');
+    background-size: cover;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+    height: 300px;
+    width:540px;
+    color:aliceblue;
+    
+       /* background-repeat: no-repeat; */
+}
+#quote{
+    position: relative;
+    left:2rem;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+p{
+    position: relative;
+    left:2rem;
+    font-size: 1.5em;
+    font-weight: bold;
+}
